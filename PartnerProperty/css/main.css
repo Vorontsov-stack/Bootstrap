@@ -1,0 +1,22 @@
+
+
+
+a{
+	color: #523532;
+}
+a:hover{
+	color: #898377;
+}
+header .navbar-light{
+	background-color: #fff;
+}
+header .nav-item{
+	
+	margin-left: 20px;
+}
+text-right{
+	float:right;
+}
+.letter{
+	color:grey;
+}

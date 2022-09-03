@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-04-05 13:35">
+  <shop>
+    <name>testartcom</name>
+    <company>testartcom</company>
+    <url>https://test</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="292">10 Тачскрины и стекла для планшетов</category>
+      <category id="293">11 Дисплеи и модули для планшетов</category>
+      <category id="294">12 Тачскрины и стекла для смартфонов</category>
+      <category id="295">13 Дисплеи и модули для смартфонов</category>
+      <category id="296">14 Защитные стекла для смартфонов</category>
+      <category id="297">15 Аккумуляторы для планшетов и смартфонов</category>
+      <category id="298">16 Части корпуса для смартфонов</category>
+      <category id="299">17 Микросхемы и комплектующие</category>
+      <category id="301">400 Разное</category>
+      <category id="302" parentId="292">100 Тачскрины 7”</category>
+      <category id="303" parentId="292">101 Тачскрины 7,85-8”</category>
+      <category id="304" parentId="292">102 Тачскрины 9-9,7”</category>
+      <category id="305" parentId="292">103 Тачскрины 10” и больше</category>
+      <category id="307" parentId="293">111 Lenovo</category>
+      <category id="308" parentId="293">112 Huawei</category>
+      <category id="309" parentId="293">113 Другие</category>
+      <category id="311" parentId="294">121 Apple</category>
+      <category id="313" parentId="294">123 Meizu</category>
+      <category id="316" parentId="294">126 Samsung</category>
+      <category id="317" parentId="294">127 Xiaomi</category>
+      <category id="318" parentId="294">128 Другие</category>
+      <category id="319" parentId="295">130 Asus</category>
+      <category id="320" parentId="295">131 Apple</category>
+      <category id="321" parentId="295">132 Huawei/Honor</category>
+      <category id="323" parentId="295">134 Nokia</category>
+      <category id="324" parentId="295">135 Lenovo</category>
+      <category id="325" parentId="295">136 Samsung</category>
+      <category id="326" parentId="295">137 Xiaomi</category>
+      <category id="327" parentId="295">138 ZTE</category>
+      <category id="328" parentId="295">139 Другие</category>
+      <category id="329" parentId="296">140 Apple</category>
+      <category id="330" parentId="296">141 Huawei/Honor</category>
+      <category id="331" parentId="296">142 Samsung</category>
+      <category id="332" parentId="296">143 Xiaomi</category>
+      <category id="334" parentId="297">150 Apple</category>
+      <category id="338" parentId="297">154 Samsung</category>
+      <category id="342" parentId="298">161 Рамки</category>
+      <category id="343" parentId="298">162 Держатели сим-карты, карты памяти</category>
+      <category id="344" parentId="298">163 Стекла камеры</category>
+      <category id="345" parentId="299">170 Микросхемы</category>
+      <category id="346" parentId="299">171 Коннекторы заряда</category>
+      <category id="347" parentId="299">172 Коннекторы сим-карты, карты памяти</category>
+      <category id="348" parentId="299">173 Кнопки включения, шлейфы с кнопками</category>
+      <category id="349" parentId="299">174 Камеры, шлейфы с камерой</category>
+      <category id="350" parentId="299">175 Шлейфы и платы с коннектором заряда</category>
+      <category id="351" parentId="299">176 Шлейфы и платы другие</category>
+      <category id="352" parentId="299">178 Другие комплектующие</category>
+      <category id="353" parentId="299">177 Динамики</category>
+      <category id="356" parentId="298">160 Крышки и стекла , корпуса</category>
+    </categories>
+    <offers>
+      <offer id="129729" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-huawei-honor-10lite-honor-20-lite-p-smart-2019-nova-5t-realme-c2-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 100D ceramics film Huawei Honor 10Lite / Honor 20 lite / P Smart 2019 / Nova 5T/ Realme C2 Black</name>
+      </offer>
+      <offer id="129724" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-5-white/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 5  White</name>
+      </offer>
+      <offer id="129723" available="true">
+        <url>https://test/product/razem-microusb-samsung-t210-t211-t230-p3200-p3210-p5200-p5210-i9200-i9205-11-pin/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung t210 / t211 / t230 / p3200/ P3210/P5200/P5210/I9200/I9205, 11 PIN</name>
+      </offer>
+      <offer id="129722" available="true">
+        <url>https://test/product/razem-microusb-huawei-p8-y5-ii-y5-2017-perevert%d1%8bsh-meizu-m3-note-l681-mediapad-t3-8-0-lte-kob-l09/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei P8 /Y5 II/Y5 2017 (перевертыш) Meizu M3 note L681/ MediaPad T3 8.0 LTE (KOB-L09)</name>
+      </offer>
+      <offer id="129721" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-honor-7x-bnd-l21-white-hicopy/</url>
+        <price>590</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei Honor 7X BND-L21 White HiCopy</name>
+      </offer>
+      <offer id="129720" available="true">
+        <url>https://test/product/trymach-sim-karty-huawei-p40-lite-white-silver/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>343</categoryId>
+        <name>Тримач SIM карти Huawei P40 Lite White (Silver)</name>
+      </offer>
+      <offer id="129719" available="true">
+        <url>https://test/product/razem-microusb-meizu-mx-m3s-m5s-moto-c-plus-xt1723-xt1724/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu MX M3S M5S/ Moto C Plus XT1723/ XT1724</name>
+      </offer>
+      <offer id="129647" available="true">
+        <url>https://test/product/razem-microusb-lenovo-ideatab-a10-70-a7-30-a7600-a3300-a7000-s910-s930-mob-tel-lenovo-a5000-a7000-power-bank-nokia-3-1-plus/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo IdeaTab A10-70/ A7-30 (A7600)/ A3300/ A7000/S910/ S930 моб. тел. Lenovo A5000, A7000 (power bank) Nokia 3.1 Plus</name>
+      </offer>
+      <offer id="129646" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-a71-2020-sm-a715f-big-oled-lz/</url>
+        <price>2100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung A71 2020 SM-A715F Big Oled LZ</name>
+      </offer>
+      <offer id="129645" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-a51-2020-sm-a515f-oled/</url>
+        <price>1550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung A51 2020 SM-A515F Oled</name>
+      </offer>
+      <offer id="129644" available="true">
+        <url>https://test/product/kamera-iphone-xs-max-frontalnaya-shlejf/</url>
+        <price>490</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>349</categoryId>
+        <name>Камера iPhone XS Max фронтальная + шлейф</name>
+      </offer>
+      <offer id="129643" available="true">
+        <url>https://test/product/kamera-iphone-xs-frontalnaya-shlejf/</url>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>349</categoryId>
+        <name>Камера iPhone XS фронтальная + шлейф</name>
+      </offer>
+      <offer id="129642" available="true">
+        <url>https://test/product/sklo-kamery-huawei-p-smart-2021-ppa-lx2-black/</url>
+        <price>50</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>344</categoryId>
+        <name>Скло камери Huawei P Smart 2021 PPA-LX2 Black</name>
+      </offer>
+      <offer id="129641" available="true">
+        <url>https://test/product/zadnya-kryshka-huawei-p-smart-2021-ppa-lx2-gold/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Huawei P Smart 2021 PPA-LX2 Gold</name>
+      </offer>
+      <offer id="129640" available="true">
+        <url>https://test/product/zadnya-kryshka-huawei-p-smart-2021-ppa-lx2-green/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Huawei P Smart 2021 PPA-LX2 Green</name>
+      </offer>
+      <offer id="129639" available="true">
+        <url>https://test/product/zadnya-kryshka-huawei-p-smart-2021-ppa-lx2-black/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Huawei P Smart 2021 PPA-LX2 Black</name>
+      </offer>
+      <offer id="129638" available="true">
+        <url>https://test/product/zadnya-kryshka-huawei-honor-9x-blue/</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Huawei Honor 9x Blue</name>
+      </offer>
+      <offer id="129637" available="true">
+        <url>https://test/product/zadnya-kryshka-huawei-honor-9x-black/</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Huawei Honor 9x Black</name>
+      </offer>
+      <offer id="129636" available="true">
+        <url>https://test/product/tachskryn-iphone-11-pro-max-black/</url>
+        <price>700</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Тачскрин Iphone 11 Pro Max Black</name>
+      </offer>
+      <offer id="129635" available="true">
+        <url>https://test/product/tachskryn-iphone-11-pro-black/</url>
+        <price>700</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Тачскрин Iphone 11 Pro Black</name>
+      </offer>
+      <offer id="129634" available="true">
+        <url>https://test/product/tachskryn-iphone-11-black/</url>
+        <price>630</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Тачскрин Iphone 11 Black</name>
+      </offer>
+      <offer id="129633" available="true">
+        <url>https://test/product/tachskryn-lenovo-tab-m10-tb-x505l-black-mykroshema-tacha-10x10/</url>
+        <price>370</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин Lenovo Tab M10 TB-X505L Black ( микросхема тача 10x10)</name>
+      </offer>
+      <offer id="129632" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-10-plus-l3213-l4213-black/</url>
+        <price>890</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia 10 Plus L3213 L4213 Black</name>
+      </offer>
+      <offer id="129631" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-10-i3123-i3113-i4113-i4193-black/</url>
+        <price>690</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia 10 i3123, i3113, i4113, i4193 Black</name>
+      </offer>
+      <offer id="129630" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-realme-7-pro-black-incell/</url>
+        <price>1200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Realme 7 Pro Black Incell</name>
+      </offer>
+      <offer id="129629" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-oppo-a15-cph2185-oppo-a15s-cph2179-black/</url>
+        <price>950</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Oppo A15 CPH2185. Oppo A15s CPH2179 Black</name>
+      </offer>
+      <offer id="129628" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-nokia-2-4-ta-1270-black/</url>
+        <price>1190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>323</categoryId>
+        <name>Модуль тачскрин + дисплей Nokia 2.4 TA-1270 Black</name>
+      </offer>
+      <offer id="129627" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-p-smart-2021-ppa-lx2-honor-10x-lite-dnn-lx9-black/</url>
+        <price>1400</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei P Smart 2021 PPA-LX2/Honor 10X Lite DNN-LX9 Black</name>
+      </offer>
+      <offer id="129623" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-mi-10t-pocophone-x2-redmi-k30-redmi-k30-pro-black-full-original-ht/</url>
+        <price>1200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Mi 10T / Pocophone X2 / Redmi K30 / Redmi K30 Pro Black Full Original HT</name>
+      </offer>
+      <offer id="129622" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-mi-10t-lite-poco-x3-black-full-original-ht/</url>
+        <price>1550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Mi 10T Lite / Poco X3 Black Full Original HT</name>
+      </offer>
+      <offer id="129621" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-nokia-3-4-black-full-original-ht/</url>
+        <price>1350</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>323</categoryId>
+        <name>Модуль тачскрин + дисплей Nokia 3.4 Black Full Original HT</name>
+      </offer>
+      <offer id="129620" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-nokia-5-4-black-full-original-ht/</url>
+        <price>1400</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>323</categoryId>
+        <name>Модуль тачскрин + дисплей Nokia 5.4 Black Full Original HT</name>
+      </offer>
+      <offer id="129618" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-redmi-8-redmi-8a-m1908c3kg-black-original-ht/</url>
+        <price>700</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Redmi 8 / Redmi 8A M1908C3KG Black Original HT</name>
+      </offer>
+      <offer id="129617" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-redmi-10x-note-9-black-original-ht/</url>
+        <price>750</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Redmi 10x / Note 9 Black Original HT</name>
+      </offer>
+      <offer id="129613" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-xz-f8332-f8331-silver-original-change-glass-ht/</url>
+        <price>720</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia XZ F8332 / F8331 Silver Original change glass HT</name>
+      </offer>
+      <offer id="129612" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-xz-f8332-f8331-blue-original-change-glass-ht/</url>
+        <price>720</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia XZ F8332 / F8331 Blue Original change glass HT</name>
+      </offer>
+      <offer id="129610" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j7-neo-j701f-ds-oled-gold-ht/</url>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J7 Neo J701F/DS Oled Gold HT</name>
+      </offer>
+      <offer id="129609" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j7-2017-j730h-duos-sm-j730f-oled-silver-ht/</url>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J7 (2017) J730H Duos SM-J730F Oled Silver HT</name>
+      </offer>
+      <offer id="129608" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j7-2016-j710f-ds-oled-gold-ht/</url>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J7 (2016) J710F/DS Oled Gold HT</name>
+      </offer>
+      <offer id="129607" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j3-2017-j330h-original-black-ht/</url>
+        <price>700</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J3 (2017) J330H Original Black HT</name>
+      </offer>
+      <offer id="129606" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-j320h-ds-galaxy-j3-2016-oled-black-ht/</url>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung J320H/ DS Galaxy J3 (2016) Oled Black HT</name>
+      </offer>
+      <offer id="129605" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j1-2016-j120h-ds-tft-black-ht/</url>
+        <price>450</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J1 (2016) J120H/DS TFT Black HT</name>
+      </offer>
+      <offer id="129604" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-a7-2018-sm-a750-black-full-original-ht/</url>
+        <price>1600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy A7 2018 SM-A750 Black Full Original HT</name>
+      </offer>
+      <offer id="129603" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-a11-2020-a115-m11-m115-black-original-ht/</url>
+        <price>800</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy A11 2020 A115 / M11 M115 Black Original HT</name>
+      </offer>
+      <offer id="129600" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-realme-3-realme-3i-oppo-a7-oppo-a12-black-original-ht/</url>
+        <price>720</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Realme 3 / Realme 3i / OPPO A7 / OPPO A12 Black Original HT</name>
+      </offer>
+      <offer id="129598" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-nokia-4-2-black-original-ht/</url>
+        <price>520</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>323</categoryId>
+        <name>Модуль тачскрин + дисплей Nokia 4.2 Black Original HT</name>
+      </offer>
+      <offer id="129596" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-motorola-moto-z-xt1650-03-black-full-original-ht/</url>
+        <price>1350</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Motorola Moto Z XT1650-03 Black Full Original HT</name>
+      </offer>
+      <offer id="129594" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-y7-2018-huawei-honor-7c-pro-ldn-l01-ldn-l21-lnd-l29-black-original-ht/</url>
+        <price>750</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei Y7 2018 Huawei Honor 7C Pro (LDN-L01/ LDN-L21/LND-L29) Black Original HT</name>
+      </offer>
+      <offer id="129593" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-p9-lite-vns-l21-black-original-ht/</url>
+        <price>580</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei P9 Lite VNS-L21 Black Original HT</name>
+      </offer>
+      <offer id="129591" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-p-smart-2019-pot-lx1-black-original-ht/</url>
+        <price>1100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei P Smart 2019 (POT-LX1) Black Original HT</name>
+      </offer>
+      <offer id="129589" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-3-max-zc520tl-black-original-ht/</url>
+        <price>530</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus ZenFone 3 MAX ZC520TL black Original HT</name>
+      </offer>
+      <offer id="129587" available="true">
+        <url>https://test/product/kamera-iphone-xr-frontalnaya-shlejf/</url>
+        <price>320</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>349</categoryId>
+        <name>Камера iPhone XR фронтальная + шлейф</name>
+      </offer>
+      <offer id="129586" available="true">
+        <url>https://test/product/steklo-tachskryna-ipad-pro-10-5-2017-a1701-a1709-a1852-black/</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Стекло тачскрина iPad Pro 10.5 2017 (A1701/A1709/A1852) Black</name>
+      </offer>
+      <offer id="129585" available="true">
+        <url>https://test/product/komplekt-steklo-%d1%8dkrana-iphone-xs-max-black-s-osa-plenkoj-ramka/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Комплект стекло экрана iPhone XS Max Black с ОСА пленкой + рамка</name>
+      </offer>
+      <offer id="129584" available="true">
+        <url>https://test/product/komplekt-steklo-%d1%8dkrana-iphone-xs-black-s-osa-plenkoj-ramka/</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Комплект стекло экрана iPhone XS Black с ОСА пленкой + рамка</name>
+      </offer>
+      <offer id="129583" available="true">
+        <url>https://test/product/steklo-%d1%8dkrana-iphone-xr-black-s-ramkoj-y-osa-plenkoj/</url>
+        <price>140</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Стекло экрана iPhone XR Black с рамкой и ОСА пленкой</name>
+      </offer>
+      <offer id="129582" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-motorola-moto-g9-play-xt2083-black-en/</url>
+        <price>970</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Motorola Moto G9 Play XT2083 Black EN</name>
+      </offer>
+      <offer id="129579" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-mi-5s-black-oriiginal/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Mi 5s Black Oriiginal</name>
+      </offer>
+      <offer id="129578" available="true">
+        <url>https://test/product/tachskryn-iphone-xs-black-dlynn%d1%8bj-shlejf/</url>
+        <price>400</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Тачскрин Iphone XS Black Длинный шлейф</name>
+      </offer>
+      <offer id="129577" available="true">
+        <url>https://test/product/tachskryn-iphone-xs-max-black-dlynn%d1%8bj-shlejf/</url>
+        <price>480</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>311</categoryId>
+        <name>Тачскрин Iphone XS Max Black Длинный шлейф</name>
+      </offer>
+      <offer id="129576" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-realme-6-pro-rmx2063-oppo-a92s-black/</url>
+        <price>1150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Realme 6 Pro RMX2063 / Oppo A92s Black</name>
+      </offer>
+      <offer id="129575" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-zte-blade-a7-2020-black-original-lz/</url>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>327</categoryId>
+        <name>Модуль тачскрин + дисплей ZTE Blade A7 2020 Black Original LZ</name>
+      </offer>
+      <offer id="129574" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-motorola-moto-g9-plus-black-original-lz/</url>
+        <price>1600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Motorola Moto G9 Plus Black Original LZ</name>
+      </offer>
+      <offer id="129573" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-nokia-2-3-ta-1206-black-en/</url>
+        <price>790</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>323</categoryId>
+        <name>Модуль тачскрин + дисплей Nokia 2.3 TA-1206 Black EN</name>
+      </offer>
+      <offer id="129571" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-huawei-p-smart-s-aqm-lx1-huawei-y8p-enjoy-10s-black-tft-lz/</url>
+        <price>1690</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>321</categoryId>
+        <name>Модуль тачскрин + дисплей Huawei P Smart S AQM-LX1 / Huawei Y8P / Enjoy 10s Black TFT LZ</name>
+      </offer>
+      <offer id="129570" available="true">
+        <url>https://test/product/ramka-huawei-y6-2018-atu-l21-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>342</categoryId>
+        <name>Рамка Huawei Y6 2018 ATU-L21 Black</name>
+      </offer>
+      <offer id="129569" available="true">
+        <url>https://test/product/shlejf-iphone-11-pro-max-z-konektorom-zaryada/</url>
+        <price>600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф iPhone 11 Pro Max з конектором заряда</name>
+      </offer>
+      <offer id="129568" available="true">
+        <url>https://test/product/shlejf-iphone-11-pro-z-konektorom-zaryada/</url>
+        <price>600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф iPhone 11 Pro з конектором заряда</name>
+      </offer>
+      <offer id="129564" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-m21-m215-m30-m305-m30s-m307-a40s-a407-original-lz/</url>
+        <price>2100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung M21 M215 M30 M305 M30S M307 A40S A407 Original LZ</name>
+      </offer>
+      <offer id="129563" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-9a-redmi-9c-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 9A/ Redmi 9C Black</name>
+      </offer>
+      <offer id="129562" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a11-a115f-m11-m115f-realme-5-6-6i-c11-c15-c12-c3-c2-7-oppo-a52-a72-a92-a53-a31-a9-a5-2020-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A11 A115F / M11 M115F Realme 5/6/6I/c11/c15/c12/c3/c2/7 Oppo a52/a72/a92/a53/a31/a9/a5 2020 Black</name>
+      </offer>
+      <offer id="129561" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-oppo-f11-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Oppo F11 Pro Black</name>
+      </offer>
+      <offer id="129560" available="true">
+        <url>https://test/product/dynamik-earpiece-iphone-7-plus-8-plus-2/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамік ( Earpiece ) iPhone 7 Plus/ 8 Plus</name>
+      </offer>
+      <offer id="129555" available="true">
+        <url>https://test/product/shlejf-so-skanerom-otpechatka-huawei-p20-lite-ane-l21-nova-3e-huawei-p-smart-plus-ine-lx1/</url>
+        <price>65</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>351</categoryId>
+        <name>Шлейф со сканером отпечатка Huawei P20 Lite ANE-L21 / Nova 3e / Huawei P Smart Plus INE-LX1</name>
+      </offer>
+      <offer id="129554" available="true">
+        <url>https://test/product/shlejf-iphone-x-z-konektorom-zaryada/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф Iphone X з конектором заряда</name>
+      </offer>
+      <offer id="129553" available="true">
+        <url>https://test/product/shlejf-dlya-xiaomi-redmi-note-3-knopky-gromkosty/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>348</categoryId>
+        <name>Шлейф для Xiaomi Redmi Note 3 кнопки громкости</name>
+      </offer>
+      <offer id="129552" available="true">
+        <url>https://test/product/tachskryn-plansheta-bravis-nb102-hk10dr2767-hk10dr2813-black/</url>
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин планшета Bravis NB102 HK10DR2767 / HK10DR2813 Black</name>
+      </offer>
+      <offer id="129549" available="true">
+        <url>https://test/product/tachskryn-prestigio-multiphone-5300-duo-pioneer-e90w-micromax-canvas-doodle-a111-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>318</categoryId>
+        <name>Тачскрин Prestigio MultiPhone 5300 Duo Pioneer E90W Micromax Canvas Doodle A111 black</name>
+      </offer>
+      <offer id="129548" available="true">
+        <url>https://test/product/tachskryn-mjk-0419-fpc-nomi-c09600-stella-3g-mf-808-096f-fpc-black/</url>
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>304</categoryId>
+        <name>Тачскрин MJK-0419-FPC/ Nomi C09600 Stella 3G  MF-808-096F-FPC Black</name>
+      </offer>
+      <offer id="129546" available="true">
+        <url>https://test/product/tachskryn-gigabyte-gsmart-saga-s3-black-2/</url>
+        <price>90</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>318</categoryId>
+        <name>Тачскрин Gigabyte GSmart Saga S3 Black</name>
+      </offer>
+      <offer id="129545" available="true">
+        <url>https://test/product/steklo-kamer%d1%8b-iphone-11-pro-max-12-pro-max/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>344</categoryId>
+        <name>Стекло камеры iPhone 11 Pro Max / 12 Pro Max</name>
+      </offer>
+      <offer id="129544" available="true">
+        <url>https://test/product/steklo-kamer%d1%8b-iphone-11-pro-12-pro/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>344</categoryId>
+        <name>Стекло камеры iPhone 11 Pro / 12 Pro</name>
+      </offer>
+      <offer id="129543" available="true">
+        <url>https://test/product/ramka-huawei-y6-2018-honor-7a-pro-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>342</categoryId>
+        <name>Рамка Huawei y6 2018 Honor 7A Pro Black</name>
+      </offer>
+      <offer id="129542" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9100-s2-s2-plus-s2-mini/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I9100 /S2 / S2 plus/ S2 mini</name>
+      </offer>
+      <offer id="129541" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8260-j700-j701-j200-g355/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i8260 /J700 / J701/ J200/ G355</name>
+      </offer>
+      <offer id="129540" available="true">
+        <url>https://test/product/razem-microusb-samsung-i7390-s6810-e2202-s7262-s5282-s5282-j120h-galaxy-ace-4-g130/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I7390/ S6810/ E2202/ S7262/S5282/ S5282/ J120H/Galaxy Ace 4 /G130</name>
+      </offer>
+      <offer id="129538" available="true">
+        <url>https://test/product/plata-dlya-xiaomi-mi-5s-s-raz%d1%8aemom-zaryadky/</url>
+        <price>110</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Плата для Xiaomi Mi 5S, с разъемом зарядки</name>
+      </offer>
+      <offer id="129537" available="true">
+        <url>https://test/product/plata-dlya-xiaomi-mi-4c-mi4s-s-raz%d1%8aemom-zaryadky/</url>
+        <price>50</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Плата для Xiaomi Mi 4C/Mi4S с разъемом зарядки</name>
+      </offer>
+      <offer id="129536" available="true">
+        <url>https://test/product/shlejf-iphone-xs-z-konektorom-zaryada/</url>
+        <price>110</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф iPhone XS з конектором заряда</name>
+      </offer>
+      <offer id="129535" available="true">
+        <url>https://test/product/shlejf-iphone-xs-max-z-konektorom-zaryada/</url>
+        <price>125</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф iPhone XS Max з конектором заряда</name>
+      </offer>
+      <offer id="129534" available="true">
+        <url>https://test/product/nyzhnya-plata-huawei-y7-prime-2018-ldn-l21-z-konektorom-zaryada/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Нижня плата Huawei Y7 Prime 2018 LDN-L21 з конектором заряда</name>
+      </offer>
+      <offer id="129532" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-iphone-7-plus-black-original-toshiba-sharp-lz/</url>
+        <price>1100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320</categoryId>
+        <name>Модуль тачскрин + дисплей iPhone 7 Plus Black original (Toshiba Sharp) LZ</name>
+      </offer>
+      <offer id="129529" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-selfie-zd551kl-ze551kl-black-tr-2/</url>
+        <price>490</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus ZenFone Selfie ZD551KL / ZE551KL Black TR</name>
+      </offer>
+      <offer id="129527" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-max-zc550kl-black-2/</url>
+        <price>450</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus Zenfone Max ZC550KL Black</name>
+      </offer>
+      <offer id="129526" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-6-a600cg-a601cg-z002-t00g-black-en-2/</url>
+        <price>530</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus Zenfone 6 A600CG / A601CG Z002 T00G Black EN</name>
+      </offer>
+      <offer id="129525" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-5-ze620kl-zenfone-5z-zs620kl-black/</url>
+        <price>815</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus Zenfone 5 ZE620KL / ZenFone 5Z ZS620KL Black</name>
+      </offer>
+      <offer id="129524" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-5-ze620kl-zenfone-5z-zs620kl-black-original-lcd-lz/</url>
+        <price>1180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus Zenfone 5 ZE620KL / Zenfone 5z ZS620KL Black Original LCD LZ</name>
+      </offer>
+      <offer id="129523" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-asus-zenfone-3-max-zc520tl-pegasus-3-x008-gold/</url>
+        <price>500</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей Asus ZenFone 3 Max ZC520TL / Pegasus 3 X008 Gold</name>
+      </offer>
+      <offer id="129520" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-ramka-asus-zenfone-3-max-zc520tl-pegasus-3-x008-gold-s-razborky-orygynal-en/</url>
+        <price>600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>319</categoryId>
+        <name>Модуль тачскрин + дисплей + рамка Asus ZenFone 3 Max ZC520TL / Pegasus 3 X008 Gold с разборки оригинал EN</name>
+      </offer>
+      <offer id="129518" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-lg-k4-m160-2017-original-black-ew-2/</url>
+        <price>630</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей LG K4 M160 2017 Original Black EW</name>
+      </offer>
+      <offer id="129517" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-lg-g4-h818-black-ew-2/</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей LG G4/H818 black EW</name>
+      </offer>
+      <offer id="129516" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-lg-g4-h815-black-ew-2/</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей LG G4/H815 black EW</name>
+      </offer>
+      <offer id="129514" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-11-xr-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone 11/ XR Black</name>
+      </offer>
+      <offer id="129512" available="true">
+        <url>https://test/product/zadnya-kryshka-xiaomi-redmi-note-5-sklo-kamery-gold/</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Xiaomi Redmi Note 5 + скло камери Gold</name>
+      </offer>
+      <offer id="129511" available="true">
+        <url>https://test/product/zadnya-kryshka-xiaomi-redmi-note-5-sklo-kamery-blue/</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Xiaomi Redmi Note 5 + скло камери Blue</name>
+      </offer>
+      <offer id="129510" available="true">
+        <url>https://test/product/dysplej-txdt400dgp-71v2-texet-tm-4072/</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Дисплей TXDT400DGP-71V2 TeXet TM-4072</name>
+      </offer>
+      <offer id="129509" available="true">
+        <url>https://test/product/dysplej-t70pks03-61pin-zte-v9e/</url>
+        <price>440</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>327</categoryId>
+        <name>Дисплей T70PKS03 61pin ZTE V9E</name>
+      </offer>
+      <offer id="129508" available="true">
+        <url>https://test/product/dynamyk-earpiece-xiaomi-redmi-note2-note3-xiaomi-2-xiaomi-3-orig/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) Xiaomi Redmi note2/note3/xiaomi 2/xiaomi 3  orig</name>
+      </offer>
+      <offer id="129507" available="true">
+        <url>https://test/product/dynamyk-earpiece-xiaomi-4/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) Xiaomi 4</name>
+      </offer>
+      <offer id="129506" available="true">
+        <url>https://test/product/dynamyk-earpiece-meizu-mx4-orig-pro-6/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) MEIZU MX4 orig /PRO 6</name>
+      </offer>
+      <offer id="129505" available="true">
+        <url>https://test/product/dynamyk-earpiece-meizu-mx2-htc-desire-610-tp-link-neffos/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) MEIZU MX2 /HTC Desire 610/TP-Link Neffos</name>
+      </offer>
+      <offer id="129504" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-7-8/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece )  iPhone 7/ 8</name>
+      </offer>
+      <offer id="129503" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-6/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 6+</name>
+      </offer>
+      <offer id="129502" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-6-2/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece )  iPhone 6</name>
+      </offer>
+      <offer id="129501" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-5s/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 5S</name>
+      </offer>
+      <offer id="129500" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-5c/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 5C</name>
+      </offer>
+      <offer id="129499" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-5/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 5</name>
+      </offer>
+      <offer id="129498" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-4s/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 4S</name>
+      </offer>
+      <offer id="129497" available="true">
+        <url>https://test/product/dynamyk-earpiece-iphone-4/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамик ( Earpiece ) iPhone 4</name>
+      </offer>
+      <offer id="129496" available="true">
+        <url>https://test/product/akkumulyator-dl0db01as-9-b-t3600e-dlya-samsung-galaxy-tab-3-lite-7-0-t110-t111-3600-mach/</url>
+        <price>200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>338</categoryId>
+        <name>Аккумулятор DL0DB01aS/9-B T3600E для Samsung Galaxy Tab 3 Lite 7.0 T110/T111/ 3600 мАч</name>
+      </offer>
+      <offer id="129495" available="true">
+        <url>https://test/product/shlejf-meizu-m3s-m3s-mini-u10-knopky-home-black/</url>
+        <price>125</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>348</categoryId>
+        <name>Шлейф Meizu M3s/M3s mini/U10 кнопки Home Black</name>
+      </offer>
+      <offer id="129494" available="true">
+        <url>https://test/product/shlejf-meizu-m3s-u10-knopky-home-white-silver/</url>
+        <price>125</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>348</categoryId>
+        <name>Шлейф Meizu M3s/U10 кнопки Home White Silver</name>
+      </offer>
+      <offer id="129493" available="true">
+        <url>https://test/product/tachskryn-umi-iron-pro-black/</url>
+        <price>115</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>318</categoryId>
+        <name>Тачскрин Umi Iron Pro Black</name>
+      </offer>
+      <offer id="129491" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-lenovo-a6020a40-vibe-k5-black-2/</url>
+        <price>440</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>324</categoryId>
+        <name>Модуль тачскрин + дисплей Lenovo A6020a40 Vibe K5 Black</name>
+      </offer>
+      <offer id="129481" available="true">
+        <url>https://test/product/dysplej-kd070d50-31n1-b7/</url>
+        <price>390</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>309</categoryId>
+        <name>Дисплей KD070D50-31N1-B7</name>
+      </offer>
+      <offer id="129476" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-m30-m305-m30s-m307-a40s-a407-oled/</url>
+        <price>1800</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung M30 M305 M30S M307 A40S A407 Oled</name>
+      </offer>
+      <offer id="129475" available="true">
+        <url>https://test/product/tachskryn-uk101005g-01-fpcv0-1-black/</url>
+        <price>350</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин UK101005G-01 FPC(V0.1) Black</name>
+      </offer>
+      <offer id="129474" available="true">
+        <url>https://test/product/tachskryn-hsctp-795-10-1-v0-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин HSCTP-795-10.1-V0 Black</name>
+      </offer>
+      <offer id="129473" available="true">
+        <url>https://test/product/tachskryn-dh-1069a4-pg-fpc264-v1-0-white/</url>
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин DH-1069A4-PG-FPC264-v1.0 White</name>
+      </offer>
+      <offer id="129472" available="true">
+        <url>https://test/product/tachskryn-dh-1069a4-pg-fpc264-v1-0-black/</url>
+        <price>155</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин DH-1069A4-PG-FPC264-v1.0 Black</name>
+      </offer>
+      <offer id="129471" available="true">
+        <url>https://test/product/tachskryn-dh-1012a2-fpc062-02-black/</url>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин DH-1012A2-FPC062-02 Black</name>
+      </offer>
+      <offer id="129469" available="true">
+        <url>https://test/product/tachskryn-plansheta-viewsonic-viewpad-8e-c197134a1-fpc729dr-02-black/</url>
+        <price>190</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин планшета ViewSonic ViewPad 8E C197134A1 FPC729DR-02 Black</name>
+      </offer>
+      <offer id="129468" available="true">
+        <url>https://test/product/tachskryn-plansheta-sanei-n83-ampe-a85-tpc0156-v3-0-white/</url>
+        <price>420</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин планшета Sanei N83  Ampe A85 TPC0156 V3.0 White</name>
+      </offer>
+      <offer id="129467" available="true">
+        <url>https://test/product/tachskryn-plansheta-irbis-tz878-sq-pg81083-fpc-a0-analog-q034b-fpc-003-black-2/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин планшета Irbis TZ878 SQ-PG81083-FPC-A0 аналог Q034B-FPC-003 Black</name>
+      </offer>
+      <offer id="129466" available="true">
+        <url>https://test/product/tachskryn-rs8f672p_v1-0-white/</url>
+        <price>390</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин RS8F672P_V1.0 White</name>
+      </offer>
+      <offer id="129464" available="true">
+        <url>https://test/product/tachskryn-plansheta-onda-v712-texet-tm-7043xd-hld-gg707s/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета Onda V712/teXet TM-7043XD HLD-GG707S</name>
+      </offer>
+      <offer id="129463" available="true">
+        <url>https://test/product/tachskryn-zyd-jjt129-fpc-v1-0-black/</url>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин ZYD JJT129-FPC V1.0 Black</name>
+      </offer>
+      <offer id="129462" available="true">
+        <url>https://test/product/tachskryn-zhc-059b-white/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин ZHC-059B White</name>
+      </offer>
+      <offer id="129461" available="true">
+        <url>https://test/product/tachskryn-zhc-0363a-black-analog-zhc-059/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин ZHC-0363A Black аналог ZHC-059</name>
+      </offer>
+      <offer id="129460" available="true">
+        <url>https://test/product/tachskryn-vtcp010a26-fpc-2-0-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин VTCP010A26-FPC-2.0 BLACK</name>
+      </offer>
+      <offer id="129459" available="true">
+        <url>https://test/product/tachskryn-topsun_c0029_a7-178125-34pin-black/</url>
+        <price>120</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин TOPSUN_C0029_A7  178*125 34pin Black</name>
+      </offer>
+      <offer id="129458" available="true">
+        <url>https://test/product/tachskryn-mglctp-70684-white-analog-hs1275/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин MGLCTP-70684 White аналог HS1275</name>
+      </offer>
+      <offer id="129457" available="true">
+        <url>https://test/product/tachskryn-hc261159a1-mb1019q5-fpc017h-black/</url>
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин HC261159A1 MB1019Q5 FPC017H Black</name>
+      </offer>
+      <offer id="129456" available="true">
+        <url>https://test/product/tachskryn-gt10pgx10-black/</url>
+        <price>130</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>305</categoryId>
+        <name>Тачскрин GT10PGX10 Black</name>
+      </offer>
+      <offer id="129455" available="true">
+        <url>https://test/product/tachskryn-fm700224ta-black/</url>
+        <price>300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин FM700224TA Black</name>
+      </offer>
+      <offer id="129454" available="true">
+        <url>https://test/product/tachskryn-fly-flylife-connect-3g-2-lt-07-black/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин Fly Flylife Connect 3G 2 LT-07 Black</name>
+      </offer>
+      <offer id="129453" available="true">
+        <url>https://test/product/tachskryn-dp070023-f1-black-nomi-sigma-c07004-analog-mtctp-70760-fhf-7-0-148-f1-v2-0/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин DP070023-F1 Black/Nomi Sigma+ (C07004) аналог MTCTP-70760/ FHF-7.0-148-F1-V2.0</name>
+      </offer>
+      <offer id="129452" available="true">
+        <url>https://test/product/tachskryn-ch-009-01-a-black/</url>
+        <price>145</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>304</categoryId>
+        <name>Тачскрин CH-009-01-A Black</name>
+      </offer>
+      <offer id="129451" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-xs-iphone-11-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone Xs / Iphone 11 Pro Black</name>
+      </offer>
+      <offer id="129450" available="true">
+        <url>https://test/product/tachskryn-plansheta-topsun_g7043_a1-black/</url>
+        <price>215</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета Topsun_G7043_A1 Black</name>
+      </offer>
+      <offer id="129448" available="true">
+        <url>https://test/product/tachskryn-c1601-f0-a-black/</url>
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин C1601-F0-A Black</name>
+      </offer>
+      <offer id="129447" available="true">
+        <url>https://test/product/tachskryn-04-0700-0701-v3-black/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин 04-0700-0701 V3 black</name>
+      </offer>
+      <offer id="129444" available="true">
+        <url>https://test/product/tachskryn-ipad-air-2-a1567-white/</url>
+        <price>310</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>304</categoryId>
+        <name>Тачскрин iPad Air 2 A1567 White</name>
+      </offer>
+      <offer id="129365" available="true">
+        <url>https://test/product/kamera-osnovna-apple-iphone-6s/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>349</categoryId>
+        <name>Камера основна Apple Iphone 6S</name>
+      </offer>
+      <offer id="129325" available="true">
+        <url>https://test/product/kamera-osnovna-apple-iphone-6/</url>
+        <price>85</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>349</categoryId>
+        <name>Камера основна Apple Iphone 6</name>
+      </offer>
+      <offer id="129212" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-ramka-samsung-a31-2019-sm-a315f-gh82-22905a-original-service-pack-black-ht/</url>
+        <price>2300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей + рамка Samsung A31 2019 SM-A315F GH82-22905A Original Service Pack Black HT</name>
+      </offer>
+      <offer id="129205" available="true">
+        <url>https://test/product/akkumulyator-eb-ba515aby-dlya-samsung-galaxy-a51-a515-4000-mach/</url>
+        <price>240</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>338</categoryId>
+        <name>Аккумулятор EB-BA515ABY для Samsung Galaxy A51 A515 4000 мАч</name>
+      </offer>
+      <offer id="129184" available="true">
+        <url>https://test/product/zadnya-kryshka-xiaomi-redmi-9c-black/</url>
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задня кришка Xiaomi Redmi 9C Black</name>
+      </offer>
+      <offer id="129149" available="true">
+        <url>https://test/product/razem-microusb-samsung-j1-j100-j5-j500-j320-korobka-4-j330/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung J1/ J100 / J5 / J500/J320 (коробка 4) / j330</name>
+      </offer>
+      <offer id="128834" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j5-2017-j530h-tft-black-en/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J5 (2017) J530H TFT Black EN</name>
+      </offer>
+      <offer id="128757" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j5-2016-j510h-ds-oled-gold-ok/</url>
+        <price>1050</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J5 (2016) J510H/DS Oled Gold OK</name>
+      </offer>
+      <offer id="128674" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-ramka-samsung-galaxy-s9-plus-g965f-gh97-21691a-original-service-pack-black-ht/</url>
+        <price>5900</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей + рамка Samsung Galaxy S9 Plus G965F GH97-21691A Original Service Pack Black HT</name>
+      </offer>
+      <offer id="128673" available="true">
+        <url>https://test/product/tachskryn-plansheta-irbis-tzart-tz62-dunobil-eco-qc-3g-impad-p701-pb70pgj3465-black-analogsq-pg71085-fpc-a0/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета irbis TZart / tz62 / Dunobil ECO QC 3G/ ImPAD P701  PB70PGJ3465 Black аналогSQ-PG71085-FPC-A0</name>
+      </offer>
+      <offer id="128635" available="true">
+        <url>https://test/product/razem-microusb-meizu-m5c-m710h-perevert%d1%8bsh-m2-mini-m5-note-u10-m6-note/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu M5C M710H ( перевертыш ? ) M2 mini/ M5 note/ U10/ M6 note</name>
+      </offer>
+      <offer id="128605" available="true">
+        <url>https://test/product/shlejf-s-konnektorom-zaryadky-audio-y-mykrofonom-apple-iphone-6-gray/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф с коннектором зарядки, Audio и микрофоном Apple Iphone 6 gray</name>
+      </offer>
+      <offer id="128563" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-ramka-xiaomi-redmi-note-5-white-en/</url>
+        <price>700</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <picture>https://test/wp-content/uploads/product/06115.jpg</picture>
+        <name>Модуль тачскрин + дисплей + рамка Xiaomi Redmi Note 5 White EN</name>
+      </offer>
+      <offer id="128531" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-p8-lite-2017-honor-8-lite-nova-lite-2016-gr3-2017-p9-lite-2017-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei P8 Lite (2017)/Honor 8 Lite/Nova Lite (2016)/GR3 (2017)/P9 Lite (2017) Black</name>
+      </offer>
+      <offer id="128481" available="true">
+        <url>https://test/product/dynamik-buzzer-xiaomi-redmi-note-8-pro/</url>
+        <price>130</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>353</categoryId>
+        <name>Динамік ( Buzzer ) Xiaomi Redmi Note 8 Pro</name>
+      </offer>
+      <offer id="128400" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-9-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 9  Black</name>
+      </offer>
+      <offer id="128399" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-9-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 9 Pro Black</name>
+      </offer>
+      <offer id="128398" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-galaxy-j3-2016-sm-j320-j500black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung Galaxy J3 2016 SM-J320 (J500)Black</name>
+      </offer>
+      <offer id="128397" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-mi-9-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Mi 9 Black</name>
+      </offer>
+      <offer id="128396" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-mi-9t-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Mi 9T Black</name>
+      </offer>
+      <offer id="128395" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-mi-9-lite-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Mi 9 Lite Black</name>
+      </offer>
+      <offer id="128394" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a21-a215f-a21s-a217f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A21 A215F / A21S A217F Black</name>
+      </offer>
+      <offer id="128393" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-galaxy-a7-2018-sm-a750-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung Galaxy A7 2018 SM-A750 Black</name>
+      </offer>
+      <offer id="128391" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-apple-iphone-x-xs-11-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 100D ceramics film Apple Iphone X / Xs / 11 pro Black</name>
+      </offer>
+      <offer id="128390" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-apple-iphone-7-iphone-8-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 100D ceramics film Apple Iphone 7 / Iphone 8 Black</name>
+      </offer>
+      <offer id="128389" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-apple-iphone-6-iphone-6s-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 100D ceramics film Apple Iphone 6 / Iphone 6s Black</name>
+      </offer>
+      <offer id="128388" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-huawei-honor-10lite-honor-20-lite-p-smart-2019-realme-c2-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 100D ceramics film Huawei Honor 10Lite / Honor 20 lite / P Smart 2019 / Realme C2 Black</name>
+      </offer>
+      <offer id="128387" available="true">
+        <url>https://test/product/zahysne-sklo-100d-ceramics-film-xiaomi-redmi-note-5-redmi-5-plus-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 100D ceramics film Xiaomi Redmi Note 5 / Redmi 5 plus Black</name>
+      </offer>
+      <offer id="128386" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-p40-lite-jny-lx1-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei P40 Lite JNY-LX1 Black</name>
+      </offer>
+      <offer id="128385" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-p30-lite-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei P30 Lite Black</name>
+      </offer>
+      <offer id="128384" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y6p-med-lx9-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y6P MED-LX9 Black</name>
+      </offer>
+      <offer id="128383" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y5p-dra-lx9-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y5P DRA-LX9 Black</name>
+      </offer>
+      <offer id="128382" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-se-2020-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone SE 2020 Black</name>
+      </offer>
+      <offer id="128381" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-9a-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 9A Black</name>
+      </offer>
+      <offer id="128380" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-m21-m215f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung M21 M215F Black</name>
+      </offer>
+      <offer id="128379" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-xiaomi-mi-note10-lite-black/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 3D side glue case friendly Xiaomi Mi Note10 Lite Black</name>
+      </offer>
+      <offer id="128378" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-10x-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 10x Black</name>
+      </offer>
+      <offer id="128377" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-9s-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 9S Black</name>
+      </offer>
+      <offer id="128375" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-mi-10-lite-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Mi 10 Lite Black</name>
+      </offer>
+      <offer id="128374" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a11-a115f-m11-m115f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A11 A115F / M11 M115F Black</name>
+      </offer>
+      <offer id="128373" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a41-a415f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A41 A415F Black</name>
+      </offer>
+      <offer id="128372" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a31-a315f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A31 A315F Black</name>
+      </offer>
+      <offer id="128371" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-m31-m315f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung M31 M315F Black</name>
+      </offer>
+      <offer id="128370" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-xiaomi-mi-10-black/</url>
+        <price>80</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 3D side glue case friendly Xiaomi Mi 10 Black</name>
+      </offer>
+      <offer id="128368" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-honor-10-lite-hry-lx1-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Honor 10 Lite HRY-LX1 Black</name>
+      </offer>
+      <offer id="128367" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-8-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 8 Pro Black</name>
+      </offer>
+      <offer id="128366" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-mi-8-lite-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Mi 8 Lite Black</name>
+      </offer>
+      <offer id="128365" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-m51-m515f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung M51 M515F Black</name>
+      </offer>
+      <offer id="128364" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-5-redmi-5-plus-white/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 5 / Redmi 5 plus White</name>
+      </offer>
+      <offer id="128362" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-4a-white/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 4a White</name>
+      </offer>
+      <offer id="128304" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-4x-white/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 4x White</name>
+      </offer>
+      <offer id="128268" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-ramka-samsung-galaxy-s9-plus-g965f-original-service-pack-black-ht/</url>
+        <price>6300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей + рамка Samsung Galaxy S9 Plus G965F Original Service Pack Black HT</name>
+      </offer>
+      <offer id="128258" available="true">
+        <url>https://test/product/akumulyator-bn39-dlya-xiaomi-mi-play-3000mah/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>339</categoryId>
+        <name>Акумулятор BN39 для Xiaomi Mi Play 3000mAh</name>
+      </offer>
+      <offer id="128248" available="true">
+        <url>https://test/product/akumulyator-eb-ba750abu-dlya-samsung-a105-galaxy-a10-2019-a750-galaxy-a7-2018-m105-galaxy-m10-3300mah/</url>
+        <price>220</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>338</categoryId>
+        <name>Акумулятор EB-BA750ABU для Samsung A105 Galaxy A10 2019, A750 Galaxy A7 2018, M105 Galaxy M10 3300mAh</name>
+      </offer>
+      <offer id="128200" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-m30s-2019-sm-m307f-oled/</url>
+        <price>1800</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung M30S 2019 SM-M307F Oled</name>
+      </offer>
+      <offer id="128188" available="true">
+        <url>https://test/product/konektor-microusb-c-motorola-g7-xt1962-6/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Motorola G7 XT1962-6</name>
+      </offer>
+      <offer id="128185" available="true">
+        <url>https://test/product/konektor-microusb-c-huawei-p40-lite-jny-lx1/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Huawei P40 Lite JNY-LX1</name>
+      </offer>
+      <offer id="128184" available="true">
+        <url>https://test/product/konektor-microusb-c-xiaomi-redmi-8-redmi-9-note-8-pro-note-8t-note-9-note-9-pro-mi-note-10/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Xiaomi Redmi 8 Redmi 9 Note 8 pro Note 8T Note 9 Note 9 pro Mi Note 10</name>
+      </offer>
+      <offer id="128182" available="true">
+        <url>https://test/product/konektor-microusb-c-huawei-p30-pro/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Huawei P30 pro</name>
+      </offer>
+      <offer id="128181" available="true">
+        <url>https://test/product/konektor-microusb-c-xiaomi-mi-10/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Xiaomi Mi 10</name>
+      </offer>
+      <offer id="128180" available="true">
+        <url>https://test/product/konektor-microusb-c-samsung-galaxy-a31-sm-a315-m31-sm-m315/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Samsung Galaxy A31 SM-A315 / M31 SM-M315</name>
+      </offer>
+      <offer id="128179" available="true">
+        <url>https://test/product/konektor-microusb-c-samsung-galaxy-m31-sm-m315-a31-sm-a315/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Конектор microUSB-C Samsung Galaxy M31 SM-M315 / A31 SM-A315</name>
+      </offer>
+      <offer id="128116" available="true">
+        <url>https://test/product/trymach-sim-karty-huawei-y6-2018-atu-l21-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>343</categoryId>
+        <name>Тримач SIM карти Huawei Y6 2018 ATU-L21 Black</name>
+      </offer>
+      <offer id="128024" available="true">
+        <url>https://test/product/tachskryn-doogee-x90-black/</url>
+        <price>170</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>318</categoryId>
+        <name>Тачскрин Doogee X90 Black</name>
+      </offer>
+      <offer id="128021" available="true">
+        <url>https://test/product/klej-e8000-50ml/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>Клей E8000  50ml</name>
+      </offer>
+      <offer id="128020" available="true">
+        <url>https://test/product/klej-e8000-15ml/</url>
+        <price>50</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>Клей E8000  15ml</name>
+      </offer>
+      <offer id="128002" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-x-dual-f5122-black-tm/</url>
+        <price>650</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <picture>https://test/wp-content/uploads/product/05808.jpg</picture>
+        <name>Модуль тачскрин + дисплей Sony Xperia X Dual F5122 Black TM</name>
+      </offer>
+      <offer id="127957" available="true">
+        <url>https://test/product/shlejf-s-konnektorom-zaryadky-audio-y-mykrofonom-apple-iphone-5-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Шлейф с коннектором зарядки, Audio и микрофоном Apple Iphone 5 black</name>
+      </offer>
+      <offer id="127748" available="true">
+        <url>https://test/product/tachskryn-plansheta-onda-v971-v972-300-l4318a-a00/</url>
+        <price>350</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>304</categoryId>
+        <name>Тачскрин планшета Onda V971 V972 300-L4318A-A00</name>
+      </offer>
+      <offer id="127736" available="true">
+        <url>https://test/product/tachskryn-plansheta-nomi-corsa-2-c070011-jm70f-62-zyd070-268-v02-bez-datchyka-white/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета Nomi Corsa 2 C070011 JM70F-62/ ZYD070-268-V02  без датчика White</name>
+      </offer>
+      <offer id="127735" available="true">
+        <url>https://test/product/tachskryn-plansheta-nomi-corsa-2-c070011-jm70f-62-zyd070-268-v02-bez-datchyka-black/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета Nomi Corsa 2 C070011 JM70F-62/ ZYD070-268-V02  без датчика Black</name>
+      </offer>
+      <offer id="127684" available="true">
+        <url>https://test/product/tachskryn-plansheta-impad-6214-ma701m5-gg717s-white/</url>
+        <price>260</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>302</categoryId>
+        <name>Тачскрин планшета Impad 6214 MA701M5 GG717S White</name>
+      </offer>
+      <offer id="127599" available="true">
+        <url>https://test/product/tachskryn-plansheta-bravis-nb85-3g-hk80dr2840-black-analog-rp-451a-8-0-fpc-a2/</url>
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин планшета Bravis NB85 3G HK80DR2840 Black аналог RP-451A-8.0-FPC-A2</name>
+      </offer>
+      <offer id="127223" available="true">
+        <url>https://test/product/tachskryn-hc204118a1-fpc-v2-black/</url>
+        <price>450</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>303</categoryId>
+        <name>Тачскрин HC204118A1 FPC V2 Black</name>
+      </offer>
+      <offer id="126779" available="true">
+        <url>https://test/product/ramka-xiaomi-redmi-note-8-black/</url>
+        <price>200</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>342</categoryId>
+        <name>Рамка Xiaomi Redmi Note 8 Black</name>
+      </offer>
+      <offer id="126737" available="true">
+        <url>https://test/product/razem-zaryadky-samsung-g900f/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки Samsung G900F</name>
+      </offer>
+      <offer id="126736" available="true">
+        <url>https://test/product/razem-zaryadky-nokia-3110c-3250-5200-5300-6070-6080-6085-6101-6103-6111-6125-6131-6151-6233-6270-6280-6288-6300-7360-7370/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки Nokia 3110c, 3250, 5200, 5300, 6070, 6080, 6085, 6101, 6103, 6111, 6125, 6131, 6151, 6233, 6270, 6280, 6288, 6300, 7360, 7370</name>
+      </offer>
+      <offer id="126735" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-181/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-181</name>
+      </offer>
+      <offer id="126734" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-180/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-180</name>
+      </offer>
+      <offer id="126733" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-162/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-162</name>
+      </offer>
+      <offer id="126732" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-065/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-065</name>
+      </offer>
+      <offer id="126731" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-063/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-063</name>
+      </offer>
+      <offer id="126730" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-058/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-058</name>
+      </offer>
+      <offer id="126729" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-056/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-056</name>
+      </offer>
+      <offer id="126728" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-055/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-055</name>
+      </offer>
+      <offer id="126727" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-052/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-052</name>
+      </offer>
+      <offer id="126726" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-051/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-051</name>
+      </offer>
+      <offer id="126725" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-050/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-050</name>
+      </offer>
+      <offer id="126724" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-049/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-049</name>
+      </offer>
+      <offer id="126723" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-047/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-047</name>
+      </offer>
+      <offer id="126722" available="true">
+        <url>https://test/product/razem-zaryadky-dc-2-5-07-dc-046/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем зарядки DC 2.5 * 0,7  DC-046</name>
+      </offer>
+      <offer id="126720" available="true">
+        <url>https://test/product/razem-microusb-assorty/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB ассорти</name>
+      </offer>
+      <offer id="126719" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-note-7/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi Note 7</name>
+      </offer>
+      <offer id="126718" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-note-6/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi Note 6</name>
+      </offer>
+      <offer id="126716" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-note-4x/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi Note 4x</name>
+      </offer>
+      <offer id="126715" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-note-3/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi Note 3</name>
+      </offer>
+      <offer id="126714" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-6/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi 6</name>
+      </offer>
+      <offer id="126713" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-5-plus/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi 5 plus</name>
+      </offer>
+      <offer id="126712" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-5/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi 5</name>
+      </offer>
+      <offer id="126711" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-4x/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi 4x</name>
+      </offer>
+      <offer id="126710" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-redmi-4a/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Redmi 4a</name>
+      </offer>
+      <offer id="126709" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-note-2/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi Note 2</name>
+      </offer>
+      <offer id="126708" available="true">
+        <url>https://test/product/razem-microusb-xiaomi-m4c-m4s-m5/</url>
+        <price>20</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Xiaomi M4C M4S M5</name>
+      </offer>
+      <offer id="126707" available="true">
+        <url>https://test/product/razem-microusb-type-c-sony-xperia-xa1/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Type-C Sony Xperia XA1</name>
+      </offer>
+      <offer id="126706" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-z1-mini-l39h/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia z1 mini (L39h)</name>
+      </offer>
+      <offer id="126705" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-z1-z2-z3-p/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia z1 / z2 / z3 / P</name>
+      </offer>
+      <offer id="126704" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-z-c6603-original/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia Z (c6603) original</name>
+      </offer>
+      <offer id="126703" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-xa-f3112/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia XA F3112</name>
+      </offer>
+      <offer id="126702" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-neo-v-lt15/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia Neo V (Lt15)</name>
+      </offer>
+      <offer id="126701" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-miro-j-l-neo-l-e-st23i-st26i-c2104-c2105-mt25i-c1505/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia Miro / J / L / Neo L / E ( ST23i / ST26i / C2104 / C2105 / MT25i / C1505 )</name>
+      </offer>
+      <offer id="126700" available="true">
+        <url>https://test/product/razem-microusb-sony-xperia-m-c1905/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony Xperia M (c1905)</name>
+      </offer>
+      <offer id="126699" available="true">
+        <url>https://test/product/razem-microusb-sony-e3/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony E3</name>
+      </offer>
+      <offer id="126698" available="true">
+        <url>https://test/product/razem-microusb-sony-e2303-xperia-m4-aqua-e2306-e2312-e2333-e2353-e2363/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony E2303 Xperia M4 Aqua/E2306/E2312/E2333/E2353/E2363</name>
+      </offer>
+      <offer id="126697" available="true">
+        <url>https://test/product/razem-microusb-sony-c2304-s39h-xperia-c-c2305-s39h-xperia-c-doogee-x50l-vozmozhno-lumia-1320/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony C2304 S39h Xperia C, C2305 S39h Xperia C/ Doogee X50L возможно Lumia 1320</name>
+      </offer>
+      <offer id="126696" available="true">
+        <url>https://test/product/razem-microusb-sony-c1904-xperia-m-c1905-xperia-m-c2004-xperia-m-dual-c2005-xperia-m-dual/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony C1904 Xperia M, C1905 Xperia M, C2004 Xperia M Dual, C2005 Xperia M Dual</name>
+      </offer>
+      <offer id="126695" available="true">
+        <url>https://test/product/razem-microusb-sony-e4-e2104/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Sony  E4  E2104</name>
+      </offer>
+      <offer id="126694" available="true">
+        <url>https://test/product/razem-microusb-samsung-x820/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung X820</name>
+      </offer>
+      <offer id="126693" available="true">
+        <url>https://test/product/razem-microusb-samsung-w2013-besprovodnaya-kytajskaya-zaryadka-samsung/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung W2013 (беспроводная китайская зарядка Samsung)</name>
+      </offer>
+      <offer id="126692" available="true">
+        <url>https://test/product/razem-microusb-samsung-tab4-t231-320-330-530-531-700-800/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung Tab4 T231 / 320/330/530/531/700/800</name>
+      </offer>
+      <offer id="126691" available="true">
+        <url>https://test/product/razem-microusb-samsung-t210-t211-t230-p3200/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung t210 / t211 / t230 / p3200</name>
+      </offer>
+      <offer id="126690" available="true">
+        <url>https://test/product/razem-microusb-samsung-s8500/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung S8500</name>
+      </offer>
+      <offer id="126689" available="true">
+        <url>https://test/product/razem-microusb-samsung-s7562/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung S7562</name>
+      </offer>
+      <offer id="126688" available="true">
+        <url>https://test/product/razem-microusb-samsung-s7560-s7580-i8190-g350-g531h/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung s7560 / s7580 / i8190 / g350/ G531H</name>
+      </offer>
+      <offer id="126687" available="true">
+        <url>https://test/product/razem-microusb-samsung-s6-g920f-v-g9200-50-g9280-f-h-galaxy-note-5/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung S6 G920F / V G9200 / 50 G9280 / F / H/ Galaxy Note 5</name>
+      </offer>
+      <offer id="126686" available="true">
+        <url>https://test/product/razem-microusb-samsung-s5830/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung S5830</name>
+      </offer>
+      <offer id="126685" available="true">
+        <url>https://test/product/razem-microusb-samsung-s5-g900f-h-g9002d-g9006v-w-08v-09d/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung S5 G900F / H G9002D / G9006V / W / 08V / 09D</name>
+      </offer>
+      <offer id="126684" available="true">
+        <url>https://test/product/razem-microusb-samsung-note4-a3-a5-a7-n9100w-06w-n910v-p-f-g/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung Note4 A3 A5 A7 N9100W 06W N910V / P / F / G</name>
+      </offer>
+      <offer id="126683" available="true">
+        <url>https://test/product/razem-microusb-samsung-note3-n900-n9002-9005-6-8-9/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung Note3 N900 N9002 / 9005/6/8/9</name>
+      </offer>
+      <offer id="126682" available="true">
+        <url>https://test/product/razem-microusb-samsung-note-2/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung NOTE 2</name>
+      </offer>
+      <offer id="126680" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9500-i9505-n7100/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i9500 / i9505 / n7100</name>
+      </offer>
+      <offer id="126679" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9300/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I9300</name>
+      </offer>
+      <offer id="126678" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9260-i9268/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i9260 i9268</name>
+      </offer>
+      <offer id="126677" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9103-s5360-s5570-i9250-i929/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i9103 S5360 S5570 i9250 i929</name>
+      </offer>
+      <offer id="126676" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9100/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I9100</name>
+      </offer>
+      <offer id="126675" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9082/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I9082</name>
+      </offer>
+      <offer id="126674" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9070-s6102-i9050-s7562i-7568-7572/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i9070 S6102 i9050 S7562i 7568 7572</name>
+      </offer>
+      <offer id="126673" available="true">
+        <url>https://test/product/razem-microusb-samsung-i9000/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I9000</name>
+      </offer>
+      <offer id="126672" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8910-omnia-hd-i9000-galaxy-s-i9001-galaxy-s-plus-i9003-galaxy-sl-s5260-s5350-shark-s5660-s7220/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I8910 Omnia HD, I9000 Galaxy S, I9001 Galaxy S Plus, I9003 Galaxy SL, S5260, S5350 Shark, S5660, S7220</name>
+      </offer>
+      <offer id="126671" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8262d/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I8262D</name>
+      </offer>
+      <offer id="126670" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8262-j510-j710/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I8262/ J510/J710/</name>
+      </offer>
+      <offer id="126669" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8260-j700-j701/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung i8260 /J700 / J701</name>
+      </offer>
+      <offer id="126668" available="true">
+        <url>https://test/product/razem-microusb-samsung-i8160/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I8160</name>
+      </offer>
+      <offer id="126667" available="true">
+        <url>https://test/product/razem-microusb-samsung-i739/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I739</name>
+      </offer>
+      <offer id="126666" available="true">
+        <url>https://test/product/razem-microusb-samsung-i337-i545-i9500-galaxy-s4-m919-n7100-note-2/</url>
+        <price>20</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung I337, I545, I9500 Galaxy S4, M919, N7100 Note 2</name>
+      </offer>
+      <offer id="126665" available="true">
+        <url>https://test/product/razem-microusb-samsung-galaxy-tab-a-a2-8-0-2017-sm-t380/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung Galaxy Tab A / A2 8.0 2017 SM-T380</name>
+      </offer>
+      <offer id="126664" available="true">
+        <url>https://test/product/razem-microusb-samsung-g930f-s7-edge-g935f/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung G930F/ S7 Edge G935F</name>
+      </offer>
+      <offer id="126663" available="true">
+        <url>https://test/product/razem-microusb-samsung-g530/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung G530</name>
+      </offer>
+      <offer id="126662" available="true">
+        <url>https://test/product/razem-microusb-samsung-g350-galaxy-star-advance-duos-g3518-galaxy-core-lte-g355h-galaxy-core-2-duos-g3815-galaxy-express-2-g386f-galaxy-cor/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung G350 Galaxy Star Advance Duos, G3518 Galaxy Core LTE, G355H Galaxy Core 2 Duos, G3815 Galaxy Express 2, G386F Galaxy Cor</name>
+      </offer>
+      <offer id="126661" available="true">
+        <url>https://test/product/razem-microusb-samsung-e258/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung E258</name>
+      </offer>
+      <offer id="126660" available="true">
+        <url>https://test/product/razem-microusb-samsung-c6712/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung C6712</name>
+      </offer>
+      <offer id="126658" available="true">
+        <url>https://test/product/razem-microusb-samsung-b7722-b7722i-c3530-i5700-galaxy-spica-i5800-galaxy-580-i717-i7500-i8000-omnia-ii-i8510-i9220-galaxy-note-n7000/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Samsung B7722, B7722i, C3530, I5700 Galaxy Spica, I5800 Galaxy 580, I717, I7500, I8000 Omnia II, I8510, I9220 Galaxy Note, N7000</name>
+      </offer>
+      <offer id="126656" available="true">
+        <url>https://test/product/razem-microusb-nokia-lumia-930-1520/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia lumia 930 / 1520</name>
+      </offer>
+      <offer id="126655" available="true">
+        <url>https://test/product/razem-microusb-nokia-lumia-920-925-1020/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia lumia 920 / 925 / 1020</name>
+      </offer>
+      <offer id="126654" available="true">
+        <url>https://test/product/razem-microusb-nokia-lumia-640xl-730-735-550/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia lumia 640xl / 730 / 735 / 550</name>
+      </offer>
+      <offer id="126653" available="true">
+        <url>https://test/product/razem-microusb-nokia-lumia-640/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia lumia 640</name>
+      </offer>
+      <offer id="126651" available="true">
+        <url>https://test/product/razem-microusb-nokia-lumia-520-525-530-620-630-635/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia lumia 520 / 525 / 530 / 620 / 630 / 635</name>
+      </offer>
+      <offer id="126650" available="true">
+        <url>https://test/product/razem-microusb-nokia-6/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Nokia 6</name>
+      </offer>
+      <offer id="126649" available="true">
+        <url>https://test/product/razem-microusb-moto-g2-xt1063/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB moto g2 xt1063</name>
+      </offer>
+      <offer id="126647" available="true">
+        <url>https://test/product/razem-microusb-meizu-mx-m3s-m5s/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu MX M3S M5S</name>
+      </offer>
+      <offer id="126646" available="true">
+        <url>https://test/product/razem-microusb-meizu-m5s-perevert%d1%8bsh/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu M5S (перевертыш)</name>
+      </offer>
+      <offer id="126644" available="true">
+        <url>https://test/product/razem-microusb-meizu-m5-m5s/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu M5, M5S</name>
+      </offer>
+      <offer id="126643" available="true">
+        <url>https://test/product/razem-microusb-meizu-m3e-huawei-y5-ii/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu M3e/ HUAWEI Y5 II</name>
+      </offer>
+      <offer id="126642" available="true">
+        <url>https://test/product/razem-microusb-meizu-m3/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Meizu M3</name>
+      </offer>
+      <offer id="126641" available="true">
+        <url>https://test/product/razem-microusb-mc-07-kytajskye-planshet%d1%8b-prestigio-pmp5770d-huawei-c8500-c8600-u8150-u8800-c8300-t8300-c8150-u8860-fly-iq4410i/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB MC-07 китайские планшеты/ Prestigio PMP5770D, Huawei C8500, C8600, U8150, U8800, C8300, T8300, C8150, U8860, Fly IQ4410i</name>
+      </offer>
+      <offer id="126638" available="true">
+        <url>https://test/product/razem-microusb-mc-019/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB MC-019</name>
+      </offer>
+      <offer id="126636" available="true">
+        <url>https://test/product/razem-microusb-mc-014/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB MC-014</name>
+      </offer>
+      <offer id="126635" available="true">
+        <url>https://test/product/razem-microusb-mc-011/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB MC-011</name>
+      </offer>
+      <offer id="126634" available="true">
+        <url>https://test/product/razem-microusb-mc-009-lenovo-s6000-a6000/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB MC-009 Lenovo s6000, A6000</name>
+      </offer>
+      <offer id="126633" available="true">
+        <url>https://test/product/razem-microusb-lg-p700/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG P700</name>
+      </offer>
+      <offer id="126632" available="true">
+        <url>https://test/product/razem-microusb-lg-l3-l4-l5-l6-l7-l9-f5-f6-f7-fino-vozmozhno-portatyvnaya-kolonka/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG L3 L4 L5 L6 L7 L9 F5 F6 F7 FINO (возможно портативная колонка)</name>
+      </offer>
+      <offer id="126631" available="true">
+        <url>https://test/product/razem-microusb-lg-k4-k8-k10-g4-l80-d605-blackview/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG K4 / K8 / K10 / G4 / L80 D605 /Blackview</name>
+      </offer>
+      <offer id="126630" available="true">
+        <url>https://test/product/razem-microusb-lg-g3-d855-ls985-ls990/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG G3 (d855, ls985, ls990)</name>
+      </offer>
+      <offer id="126629" available="true">
+        <url>https://test/product/razem-microusb-lg-g2-d802/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG G2 (d802)</name>
+      </offer>
+      <offer id="126628" available="true">
+        <url>https://test/product/razem-microusb-lg-e162-e400-optimus-l3-e610-optimus-l5-p700-optimus-l7-p705-optimus-l7-p880-optimus-4x-hd-d410/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB LG E162, E400 Optimus L3, E610 Optimus L5, P700 Optimus L7, P705 Optimus L7, P880 Optimus 4X HD, D410</name>
+      </offer>
+      <offer id="126627" available="true">
+        <url>https://test/product/razem-microusb-lenovo-s920/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo S920</name>
+      </offer>
+      <offer id="126626" available="true">
+        <url>https://test/product/razem-microusb-lenovo-p700-meizu-m6t-unyversaln%d1%8be/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo P700/ Meizu M6T (универсальные)</name>
+      </offer>
+      <offer id="126625" available="true">
+        <url>https://test/product/razem-microusb-lenovo-k900-k910-vibe-z-a1010a20-vozmozhno/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo K900, K910 Vibe Z (A1010A20 возможно)</name>
+      </offer>
+      <offer id="126624" available="true">
+        <url>https://test/product/razem-microusb-lenovo-ideatab-a10-70-a7600-a3300-a7000-s910-s930-mob-tel-lenovo-a5000-a7000-power-bank-nokia-3-1-plus/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo IdeaTab A10-70 (A7600)/ A3300/ A7000/S910/ S930 моб. тел. Lenovo A5000, A7000 (power bank) Nokia 3.1 Plus</name>
+      </offer>
+      <offer id="126622" available="true">
+        <url>https://test/product/razem-microusb-lenovo-a360t/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo A360T</name>
+      </offer>
+      <offer id="126621" available="true">
+        <url>https://test/product/razem-microusb-lenovo-a316-a1010a20-vozmozhno/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo A316 (A1010A20 возможно)</name>
+      </offer>
+      <offer id="126620" available="true">
+        <url>https://test/product/razem-microusb-lenovo-a3000/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Lenovo A3000</name>
+      </offer>
+      <offer id="126617" available="true">
+        <url>https://test/product/razem-microusb-huawei-y7-2017-trt-lx1-trt-lx2-trt-lx3/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei Y7 (2017) TRT-LX1/TRT-LX2/TRT-LX3</name>
+      </offer>
+      <offer id="126616" available="true">
+        <url>https://test/product/razem-microusb-huawei-y6-pro-tit-u02-enjoy-5-honor-play-5x/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei Y6 Pro (TIT-U02)/Enjoy 5/Honor Play 5X</name>
+      </offer>
+      <offer id="126615" available="true">
+        <url>https://test/product/razem-microusb-huawei-y5-2018-dra-l21-honor-7a-dua-l22/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB HUAWEI Y5 2018 (DRA-L21) Honor 7a DUA-L22</name>
+      </offer>
+      <offer id="126614" available="true">
+        <url>https://test/product/razem-microusb-huawei-y5-2017-mya-u29-y3-2017/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB HUAWEI Y5 2017 (MYA-U29) / Y3 2017</name>
+      </offer>
+      <offer id="126612" available="true">
+        <url>https://test/product/razem-microusb-huawei-p8-lite-2017-pra-la1-y3-ii-tp-link-neffos/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei P8 Lite (2017) ( PRA-LA1) Y3 II/ Tp-Link Neffos</name>
+      </offer>
+      <offer id="126611" available="true">
+        <url>https://test/product/razem-microusb-huawei-p8-y5-ii-y5-2017-perevert%d1%8bsh-meizu-m3-note-l681/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei P8 /Y5 II/Y5 2017 (перевертыш) Meizu M3 note L681</name>
+      </offer>
+      <offer id="126608" available="true">
+        <url>https://test/product/razem-microusb-huawei-nova-lite-2017-p9-lite-mini-y6-pro-2017-g9-lite-y3-2017cro-l02cro-l22-y6-ii-cam-l21-p9-lite-vns-l31-t295/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB HUAWEI Nova Lite 2017, P9 Lite mini, Y6 Pro (2017), G9 Lite, Y3 2017(CRO-l02,CRO-l22), Y6 II (CAM-L21), P9 Lite (VNS-L31) t295</name>
+      </offer>
+      <offer id="126607" available="true">
+        <url>https://test/product/razem-microusb-huawei-ascend-g750-3c-3x-p6-g610/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Huawei Ascend G750 / 3c / 3x / P6 / g610</name>
+      </offer>
+      <offer id="126605" available="true">
+        <url>https://test/product/razem-microusb-htc-mytouch-4g-t320e-one-v-t326e-desire-sv-t328e-desire-x-t328w-desire-v/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB HTC myTouch 4G, T320e One V , T326e Desire SV, T328e Desire X, T328w Desire V</name>
+      </offer>
+      <offer id="126604" available="true">
+        <url>https://test/product/razem-microusb-htc-desire-526-unyversaln%d1%8be-p780-y-t-d/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB htc desire 526 (универсальные P780 и т.д.)</name>
+      </offer>
+      <offer id="126603" available="true">
+        <url>https://test/product/razem-microusb-htc-desire-510-610-816-320-yt3-x50-yoga-tablet-3-850f/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB htc desire 510 / 610 / 816 / 320/ YT3-X50/Yoga Tablet 3-850F</name>
+      </offer>
+      <offer id="126602" available="true">
+        <url>https://test/product/razem-microusb-htc-desire-310-sony-d2302-xperia-m2-dual-d2303-xperia-m2-d2305-xperia-m2-d2306-xperia-m2-lenovo-a526-a5500-a8-50/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB HTC Desire 310; Sony D2302 Xperia M2 Dual, D2303 Xperia M2, D2305 Xperia M2, D2306 Xperia M2, LENOVO A526, A5500, A8-50</name>
+      </offer>
+      <offer id="126601" available="true">
+        <url>https://test/product/razem-microusb-fly-iq436i-era-nano-9-iq440-iq4404-iq456-era-life-2-iq4601-era-style-2/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем MicroUsb Fly IQ436i Era Nano 9, IQ440, IQ4404, IQ456 Era Life 2, IQ4601 Era Style 2</name>
+      </offer>
+      <offer id="126600" available="true">
+        <url>https://test/product/razem-microusb-fly-iq270-firebird-iq441-iq4412-coral-iq442q-miracle-2-iq446-magic-iq4491q/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Fly IQ270 Firebird, IQ441, IQ4412 Coral, IQ442Q Miracle 2, IQ446 Magic, IQ4491Q</name>
+      </offer>
+      <offer id="126599" available="true">
+        <url>https://test/product/razem-microusb-blackberry-8220-8520-8530-9100-9520-9550-9700/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUsb Blackberry 8220, 8520, 8530, 9100, 9520, 9550, 9700</name>
+      </offer>
+      <offer id="126598" available="true">
+        <url>https://test/product/razem-microusb-asus-nexus-7-google-mobyln%d1%8bh-telefonov-asus-zenfone-5-a500cg-zenfone-5-a500kl-zenfone-5-a501cg-zenfone-5-lit/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Asus Nexus 7 google; мобильных телефонов Asus ZenFone 5 (A500CG), ZenFone 5 (A500KL), ZenFone 5 (A501CG), ZenFone 5 Lit</name>
+      </offer>
+      <offer id="126597" available="true">
+        <url>https://test/product/razem-microusb-asus-memo-pad-hd7-dual-sim-me175kg-k00s-lenovo-tab-2-a7/</url>
+        <price>20</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Asus MeMO Pad HD7 Dual SIM ME175KG (K00S); Lenovo Tab 2 A7</name>
+      </offer>
+      <offer id="126596" available="true">
+        <url>https://test/product/razem-microusb-asus-me372-me301-k00e-me302-me180-me102/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB ASUS ME372 ME301 K00E ME302 ME180 ME102</name>
+      </offer>
+      <offer id="126595" available="true">
+        <url>https://test/product/razem-microusb-asus-me170-fe170/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB ASUS ME170 FE170</name>
+      </offer>
+      <offer id="126594" available="true">
+        <url>https://test/product/razem-microusb-asus-me103-memo-pad-z-300c-zenpad-10-z380c-zenpad-8-0/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Asus ME103 Memo Pad / Z 300C ZenPad 10 / Z380C ZenPad 8.0</name>
+      </offer>
+      <offer id="126593" available="true">
+        <url>https://test/product/razem-microusb-asus-fonepad-7-me373cg-1y003a-fonepad-hd7-me372-fonepad-hd7-me372cg-k00e-memo-pad-10-me102a-memo-pad-7-me176-mem-fe375/</url>
+        <price>30</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разьем microUSB Asus FonePad 7 ME373CG (1Y003A), FonePad HD7 ME372, FonePad HD7 ME372CG K00E, MeMO Pad 10 ME102A, MeMO Pad 7 ME176, MeM, FE375</name>
+      </offer>
+      <offer id="126586" available="true">
+        <url>https://test/product/raz%d1%8aem-microusb-samsung-i8552-i9060-i9080-i9082-i9150-i9152-g360h-g361h-t110-t111-t113-t115-t116-t280-t285-t560-t561-t580-t585-7-pin/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Разъем microUSB Samsung i8552/i9060/i9080/i9082/i9150/i9152/G360H/G361H/T110/T111/T113/T115/T116/T280/T285/T560/T561/T580/T585, 7 pin</name>
+      </offer>
+      <offer id="126575" available="true">
+        <url>https://test/product/podsvetka-dyspleya-iphone-6s-orig/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>352</categoryId>
+        <name>Подсветка дисплея iPhone 6S Orig</name>
+      </offer>
+      <offer id="126496" available="true">
+        <url>https://test/product/nyzhnya-plata-huawei-p-smart-fig-lx1-z-konektorom-zaryada/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>350</categoryId>
+        <name>Нижня плата Huawei P Smart FIG-LX1 з конектором заряда</name>
+      </offer>
+      <offer id="126427" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-redmi-4x-black-ty/</url>
+        <price>470</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Redmi 4X Black TY</name>
+      </offer>
+      <offer id="126347" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-x-dual-f5122-lime-gold-original-lz/</url>
+        <price>750</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia X Dual F5122 Lime Gold Original LZ</name>
+      </offer>
+      <offer id="126341" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-z1-mini-black/</url>
+        <price>600</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony  Xperia Z1 mini Black</name>
+      </offer>
+      <offer id="126287" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j5-2017-j530h-tft-silver-en/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J5 (2017) J530H TFT Silver EN</name>
+      </offer>
+      <offer id="126286" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j5-2017-j530h-tft-gold-en/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J5 (2017) J530H TFT Gold EN</name>
+      </offer>
+      <offer id="126242" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-a7-2016-a710-oled-black-lz/</url>
+        <price>1070</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy A7 2016  A710 Oled Black LZ</name>
+      </offer>
+      <offer id="126171" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-motorola-moto-e5-plus-xt1924-1-black/</url>
+        <price>590</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <picture>https://test/wp-content/uploads/product/04768.jpg</picture>
+        <name>Модуль тачскрин + дисплей Motorola MOTO E5 Plus XT1924-1 Black</name>
+      </offer>
+      <offer id="126036" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-iphone-x-black-tft-incell-ty/</url>
+        <price>1300</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>320</categoryId>
+        <name>Модуль тачскрин + дисплей iPhone X Black TFT Incell TY</name>
+      </offer>
+      <offer id="125795" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-lg-k4-m160-2017-original-black-ew/</url>
+        <price>660</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей  LG K4 M160 2017 Original Black EW</name>
+      </offer>
+      <offer id="125712" available="true">
+        <url>https://test/product/kontroller-power-ic-358s-1939-asus-zenfone-2-ze500cl-zenfone-2-ze550cl-zenfone-2-ze550ml-zenfone-2-ze551ml-zenfone-5-a501cg/</url>
+        <price>60</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>345</categoryId>
+        <name>Контроллер Power IC 358S 1939 Asus ZenFone 2 (ZE500CL), ZenFone 2 (ZE550CL), ZenFone 2 (ZE550ML), ZenFone 2 (ZE551ML), ZenFone 5 (A501CG)</name>
+      </offer>
+      <offer id="125702" available="true">
+        <url>https://test/product/konnektor-zaryadky-nokia-207/</url>
+        <price>15</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>346</categoryId>
+        <name>Коннектор зарядки Nokia 207</name>
+      </offer>
+      <offer id="125668" available="true">
+        <url>https://test/product/klej-t7000-50ml/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>Клей T7000  50ml</name>
+      </offer>
+      <offer id="125666" available="true">
+        <url>https://test/product/klej-b7000-50ml/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>Клей B7000  50ml</name>
+      </offer>
+      <offer id="125643" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-7-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 7 Black</name>
+      </offer>
+      <offer id="125642" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-6-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 6 Black</name>
+      </offer>
+      <offer id="125641" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-5-redmi-5-plus-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 5 / Redmi 5 plus Black</name>
+      </offer>
+      <offer id="125640" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-note-4x-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi Note 4x Black</name>
+      </offer>
+      <offer id="125639" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-8-redmi-8a-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 8 / Redmi 8a Black</name>
+      </offer>
+      <offer id="125636" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-5-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 5 Black</name>
+      </offer>
+      <offer id="125634" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-xiaomi-redmi-4a-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>332</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Xiaomi Redmi 4a Black</name>
+      </offer>
+      <offer id="125633" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-galaxy-j7-2017-j730h-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung Galaxy J7 (2017) J730H Black</name>
+      </offer>
+      <offer id="125632" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a71-a715f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A71 A715F Black</name>
+      </offer>
+      <offer id="125631" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a70-a705f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A70 A705F Black</name>
+      </offer>
+      <offer id="125630" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a51-a515f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A51 A515F Black</name>
+      </offer>
+      <offer id="125629" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a40-a405f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A40 A405F Black</name>
+      </offer>
+      <offer id="125628" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a30s-a307f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A30S A307F Black</name>
+      </offer>
+      <offer id="125626" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a20s-a207f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A20S A207F Black</name>
+      </offer>
+      <offer id="125625" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a20-a205f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A20 A205F Black</name>
+      </offer>
+      <offer id="125624" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a10s-a107f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A10S A107F Black</name>
+      </offer>
+      <offer id="125623" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a10e-a102-a20e-a202f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A10E A102 / A20E A202F Black</name>
+      </offer>
+      <offer id="125622" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-samsung-a10-a105f-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Samsung A10 A105F Black</name>
+      </offer>
+      <offer id="125620" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y7-2019-y7-prime-2019-dub-lx3-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y7 2019 / Y7 Prime 2019 DUB-LX3 Black</name>
+      </offer>
+      <offer id="125619" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y6-2019-mrd-lx1-black-typ-2/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y6 2019 MRD-LX1 Black тип 2</name>
+      </offer>
+      <offer id="125618" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y6-2019-mrd-lx1-black-typ-1/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y6 2019 MRD-LX1 Black тип 1</name>
+      </offer>
+      <offer id="125617" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-y5-2018-dra-l21-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Y5 2018 DRA-L21 Black</name>
+      </offer>
+      <offer id="125616" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-p8-lite-2017-pra-la1-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei P8 Lite (2017) PRA-LA1 Black</name>
+      </offer>
+      <offer id="125614" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-p-smart-fig-lx1-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei P Smart FIG-LX1 Black</name>
+      </offer>
+      <offer id="125612" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-mate-20-lite-sne-lx1-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Mate 20 Lite SNE-LX1 Black</name>
+      </offer>
+      <offer id="125611" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-mate-10-lite-rne-l21-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Mate 10 lite RNE-L21 Black</name>
+      </offer>
+      <offer id="125610" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-honor-8x-jsn-l21-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Honor 8X JSN-L21 Black</name>
+      </offer>
+      <offer id="125609" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-huawei-honor-7a-pro-7c-y6-2018-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>330</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Huawei Honor 7A Pro/7C/Y6 2018 Black</name>
+      </offer>
+      <offer id="125608" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-xs-max-11-pro-max-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone Xs Max / 11 Pro Max Black</name>
+      </offer>
+      <offer id="125607" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-xs-11-pro-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone Xs / 11 Pro Black</name>
+      </offer>
+      <offer id="125604" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-7-plus-iphone-8-plus-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone 7 Plus / Iphone 8 Plus Black</name>
+      </offer>
+      <offer id="125602" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-6-plus-iphone-6s-plus-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone 6 Plus / Iphone 6s Plus Black</name>
+      </offer>
+      <offer id="125600" available="true">
+        <url>https://test/product/zahysne-sklo-9d-full-cover-tempered-glass-apple-iphone-11-black/</url>
+        <price>40</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>329</categoryId>
+        <name>Захисне скло 9D full cover tempered glass Apple Iphone 11 Black</name>
+      </offer>
+      <offer id="125599" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s9-plus-g965f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S9 Plus G965F Black</name>
+      </offer>
+      <offer id="125598" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s9-g960f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S9 G960F Black</name>
+      </offer>
+      <offer id="125597" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s8-plus-g955f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S8 Plus G955F Black</name>
+      </offer>
+      <offer id="125596" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s8-g950f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S8 G950F Black</name>
+      </offer>
+      <offer id="125595" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s10e-g970f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S10E G970F Black</name>
+      </offer>
+      <offer id="125594" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s10-plus-g975f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S10 Plus G975F Black</name>
+      </offer>
+      <offer id="125593" available="true">
+        <url>https://test/product/zahysne-sklo-3d-side-glue-case-friendly-samsung-galaxy-s10-g973f-black/</url>
+        <price>100</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>331</categoryId>
+        <name>Захисне скло 3D side glue case friendly Samsung Galaxy S10 G973F Black</name>
+      </offer>
+      <offer id="125547" available="true">
+        <url>https://test/product/zadnyaya-kr%d1%8bshka-xiaomi-mi-9se-blue/</url>
+        <price>160</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>356</categoryId>
+        <name>Задняя крышка Xiaomi Mi 9SE Blue</name>
+      </offer>
+      <offer id="125543" available="true">
+        <url>https://test/product/zadnyaya-kr%d1%8bshka-xiaomi-mi-8-lite-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Задняя крышка Xiaomi Mi 8 lite Black</name>
+      </offer>
+      <offer id="125176" available="true">
+        <url>https://test/product/akkumulyator-samsung-eb-bj510cbc-j510-galaxy-j5/</url>
+        <price>180</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>338</categoryId>
+        <name>Аккумулятор Samsung EB-BJ510CBC J510 Galaxy J5</name>
+      </offer>
+      <offer id="125128" available="true">
+        <url>https://test/product/akkumulyator-bt61-dlya-meizu-m3-note-m681h-4000-mah/</url>
+        <price>250</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>336</categoryId>
+        <name>Аккумулятор BT61 для Meizu M3 Note (M681H) 4000 mAh</name>
+      </offer>
+      <offer id="125105" available="true">
+        <url>https://test/product/akkumulyator-bm4a-dlya-xiaomi-redmi-pro-4000-mah/</url>
+        <price>220</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>339</categoryId>
+        <name>Аккумулятор BM4A для Xiaomi Redmi Pro 4000 mAh</name>
+      </offer>
+      <offer id="125054" available="true">
+        <url>https://test/product/akkumulyator-ba810-dlya-meizu-m8c-3000-mah/</url>
+        <price>280</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>336</categoryId>
+        <name>Аккумулятор BA810 для Meizu M8C 3000 mAh</name>
+      </offer>
+      <offer id="125029" available="true">
+        <url>https://test/product/akkumulyator-020-00823-dlya-apple-ipad-pro-9-7-a1673-a1674-a1675-a1664-7306-mach/</url>
+        <price>400</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>334</categoryId>
+        <name>Аккумулятор 020-00823 для Apple iPad Pro 9.7 A1673 A1674 A1675. A1664 7306 мАч</name>
+      </offer>
+      <offer id="125027" available="true">
+        <url>https://test/product/oca-plenka-dlya-xiaomi-mi-max-3-69/</url>
+        <price>25</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>OCA пленка для Xiaomi Mi Max 3 (6,9&amp;quot;)</name>
+      </offer>
+      <offer id="125026" available="true">
+        <url>https://test/product/oca-plenka-dlya-iphone-6-iphone-6s-iphone-7/</url>
+        <price>12</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>OCA пленка для Iphone 6/ Iphone 6S/ iPhone 7</name>
+      </offer>
+      <offer id="125024" available="true">
+        <url>https://test/product/oca-plenka-dlya-iphone-5/</url>
+        <price>10</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>OCA пленка для Iphone 5</name>
+      </offer>
+      <offer id="125023" available="true">
+        <url>https://test/product/oca-plenka-10-unyversalnaya/</url>
+        <price>70</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>300</categoryId>
+        <name>OCA пленка 10&amp;quot; универсальная</name>
+      </offer>
+      <offer id="124847" available="true">
+        <url>https://test/product/tachskryn-doogee-x5-max-pro-x5-max-black/</url>
+        <price>150</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>318</categoryId>
+        <name>Тачскрин Doogee X5 Max Pro/X5 Max  Black</name>
+      </offer>
+      <offer id="124796" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-xiaomi-redmi-4x-black-original-lcd-lz/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>326</categoryId>
+        <name>Модуль тачскрин + дисплей Xiaomi Redmi 4X Black Original LCD LZ</name>
+      </offer>
+      <offer id="124777" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-t580-t585-black-en/</url>
+        <price>1400</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>309</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung T580 / T585 Black EN</name>
+      </offer>
+      <offer id="124768" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-samsung-galaxy-j5-2017-j530h-tft-silver/</url>
+        <price>550</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>325</categoryId>
+        <name>Модуль тачскрин + дисплей Samsung Galaxy J5 (2017) J530H TFT Silver</name>
+      </offer>
+      <offer id="124627" available="true">
+        <url>https://test/product/akkumulyator-samsung-eb-bj700bbc-j700-galaxy-j7/</url>
+        <price>220</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>338</categoryId>
+        <name>Аккумулятор Samsung EB-BJ700BBC J700 Galaxy J7</name>
+      </offer>
+      <offer id="124594" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-sony-xperia-xa-dual-f3112-f3113-f3115-f3116-gray-ew/</url>
+        <currencyId>UAH</currencyId>
+        <categoryId>328</categoryId>
+        <name>Модуль тачскрин + дисплей Sony Xperia XA Dual (F3112/ F3113/ F3115/ F3116) Gray EW</name>
+      </offer>
+      <offer id="124591" available="true">
+        <url>https://test/product/modul-tachskryn-dysplej-meizu-u20-white-tr/</url>
+        <price>500</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>322</categoryId>
+        <name>Модуль тачскрин + дисплей Meizu U20 White TR</name>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
